@@ -1,0 +1,49 @@
+@model pt1_mvc.Models.Client
+
+@{
+    ViewData["Title"] = "Create";
+
+    string defaultDT = DateTime.Now.ToString("yyyy-MM-dd");
+}
+
+<h1>Create</h1>
+
+<h4>Client</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="Dni" class="control-label"></label>
+                <input asp-for="Dni" class="form-control" />
+                <span asp-validation-for="Dni" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nom" class="control-label"></label>
+                <input asp-for="Nom" class="form-control" />
+                <span asp-validation-for="Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cognoms" class="control-label"></label>
+                <input asp-for="Cognoms" class="form-control" />
+                <span asp-validation-for="Cognoms" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataN" class="control-label"></label>
+                <input asp-for="DataN" class="form-control" value="@defaultDT" />
+                <span asp-validation-for="DataN" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

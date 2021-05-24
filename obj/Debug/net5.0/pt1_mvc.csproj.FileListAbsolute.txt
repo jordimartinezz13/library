@@ -1,0 +1,922 @@
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt1_mvc/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt1_mvc/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/appsettings.Development.json
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/appsettings.json
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc.deps.json
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/ref/pt1_mvc.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc.pdb
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc.Views.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Humanizer.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/Newtonsoft.Json.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/System.Runtime.Caching.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/ref/pt1_mvc.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.pdb
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1a_resolta/pt1_mvc/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/ref/pt1_mvc.dll
+/media/francesc/DADES/CARLES VALLBONA/M07/UF2/REF/pt1b/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt1b/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Client/Create.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Client/Delete.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Client/Edit.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Client/Index.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/pt1b/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt1c/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Client/Create.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Client/Delete.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Client/Edit.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Client/Index.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Compte/Create.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Compte/Delete.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Compte/Edit.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Compte/Index.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt1c/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt2a/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Client/Create.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Client/Delete.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Client/Edit.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Client/Index.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Compte/Create.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Compte/Delete.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Compte/Edit.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Compte/Index.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/home/francesc/Projects/pt2a/obj/Debug/net5.0/Razor/Views/Client/MajorsEdat.cshtml.g.cs
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/pt2b/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Client/Create.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Client/Delete.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Client/Edit.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Client/Index.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Client/MajorsEdat.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Compte/Create.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Compte/Delete.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Compte/Edit.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Compte/Index.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/pt2b/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/REF/repas_uf2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/Create.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/Delete.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/Edit.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/Index.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/MajorsEdat.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Compte/Create.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Compte/Delete.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Compte/Edit.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Compte/Index.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/home/francesc/Projects/REF/repas_uf2/obj/Debug/net5.0/Razor/Views/User/Login.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/repas_uf2_250121/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Client/Create.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Client/Delete.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Client/Edit.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Client/Index.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Client/MajorsEdat.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Compte/Create.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Compte/Delete.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Compte/Edit.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Compte/Index.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/User/Login.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/repas_uf2_250121/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/repas_uf2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/Create.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/Delete.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/Edit.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/Index.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Client/MajorsEdat.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Compte/Create.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Compte/Delete.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Compte/Edit.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Compte/Index.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/User/Login.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/repas_uf2/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/appsettings.Development.json
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/appsettings.json
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc.deps.json
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc.runtimeconfig.json
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc.runtimeconfig.dev.json
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc.Views.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Humanizer.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.csprojAssemblyReference.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.AssemblyInfoInputs.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.AssemblyInfo.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.csproj.CoreCompileInputs.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.RazorAssemblyInfo.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.Manifest.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/staticwebassets/pt1_mvc.StaticWebAssets.xml
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/scopedcss/bundle/pt1_mvc.styles.css
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.TagHelpers.input.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.TagHelpers.output.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.RazorCoreGenerate.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Client/Create.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Client/Delete.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Client/Edit.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Client/Index.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Client/MajorsEdat.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Compte/Create.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Compte/Delete.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Compte/Edit.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Compte/Index.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/User/Login.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cache
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.RazorTargetAssemblyInfo.cs
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.Views.pdb
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.csproj.CopyComplete
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/ref/pt1_mvc.dll
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.pdb
+/home/francesc/Projects/REF/repas_uf2_resolt/obj/Debug/net5.0/pt1_mvc.genruntimeconfig.cache

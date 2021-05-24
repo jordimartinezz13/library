@@ -1,0 +1,65 @@
+@model IEnumerable<pt1_mvc.Models.Client>
+
+@{
+    ViewData["Title"] = "Clients majors d'edat";
+}
+
+<h2>Clients majors d'edat</h2>
+<!--h3> @ViewBag.newDate </h3-->
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cognoms)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataN)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            string dataN = "";
+            if (item.DataN != null) {
+                DateTime dt = (DateTime) item.DataN;
+                dataN = dt.ToString("dd-MM-yyyy");
+            }
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dni)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cognoms)
+                </td>
+                <td>
+                    @dataN
+                </td>
+
+                @if (@ViewBag.userName != null)
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
